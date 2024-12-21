@@ -1,1 +1,1 @@
-# bac_gAI_1
+# bme-597-bacteria-human-interaction
